@@ -37,5 +37,5 @@
 - [ ] Oura
 
 ### Rough Sketch
-![Rough Sketch](./server/static/images/rough-sketch.pdf)
+![Rough Sketch](./server/static/images/rough-sketch.png)
 
